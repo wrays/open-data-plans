@@ -2,30 +2,30 @@
 Welcome to City of Austin's Open Data Plans!
 ==============================================
 
-This site provides a central location for open data planning documents at the City of Austin. Each department is responsible for maintaining an Open Data Plan which describes the following: 
+This site provides a central location for open data planning documents at the City of Austin. Open Data Plans help folks learn about our departments and discover data that interests them. Each department is responsible for maintaining an Open Data Plan which describes the following: 
 
 - x
 - y
 - z
 
-The purpose of an Open Data Plan is to: 
 
-- a
-- b
-- c 
 
 For more information about Austin's Open Data Initiative, please visit our `Open Data Manual <http://www.opendata.rocks>`_.
 
 How this documentation is organized:
 ======================================
 
-coming soon
+The navigation menu lists each department by name and service group as they appear in the most recently approved City Budget. Click on a department name to view its most recent Open Data Plan.
+
+.. tip::
+
+   To find a specific Office or Division, use the search bar. When it comes to the City Budget, some Offices are grouped under Departments.
+
 
 Some cool things you can do:
 ======================================
 
 - Search all plans by using the search bar
-- Browse topics in the Table of Contents menu
 - Generate a PDF to read the plans the old-fashioned way
 - Read the plans page-by-page by scrolling down and clicking 'Next'
 
@@ -44,7 +44,6 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-plans
    Neighborhood Housing and Community Development <neighborhood-housing>
    Parks and Recreation <parks-and-recreation>
 
-
 .. toctree::
    :hidden:
    :maxdepth: 3
@@ -53,66 +52,65 @@ View this project on GitHub: https://github.com/cityofaustin/open-data-plans
    Austin Transportation <austin-transportation>
    Public Works <public-works>
    Watershed Protection <watershed-protection>
-   
 
 .. toctree::
    :hidden:
    :maxdepth: 3
    :caption: Development
 
-   Development Services
-   Economic Development
-   Planning and Zoning
+   Development Services <development-services>
+   Economic Development <economic-development>
+   Planning and Zoning <planning-and-zoning>
 
 .. toctree::
    :hidden:
    :maxdepth: 3
    :caption: Public Safety
 
-   Emergency Medical Services
-   Fire
-   Municipal Court
-   Police
+   Emergency Medical Services <emergency-medical-services>
+   Fire <fire>
+   Municipal Court <municipal-court>
+   Police <police>
 
 .. toctree::
    :hidden:
    :maxdepth: 3
    :caption: Utility and Other Enterprises
 
-   Austin Convention Center
-   Austin Energy
+   Austin Convention Center <austin-convention-center>
+   Austin Energy <austin-energy>
    Austin Resource Recovery <austin-resource-recovery>
-   Austin Water
-   Aviation
+   Austin Water <austin-water>
+   Aviation <aviation>
 
 .. toctree::
    :hidden:
    :maxdepth: 3
    :caption: Support Services
 
-   Building Services
-   Communications and Public Information
-   Financial Services
-   Government Relations
-   Human Resources
-   Labor Relations
-   Law
-   Management Services
-   Mayor and Council
-   Office of Real Estate Services
-   Office of the City Auditor
-   Office of the City Clerk
-   Office of the Medical Director
-   Small and Minority Business Resources
-   Telecommunications and Regulatory Affairs
+   Building Services <building-services>
+   Communications and Public Information <comm-public-information>
+   Financial Services <financial-services>
+   Government Relations <government-relations>
+   Human Resources <human-resources>
+   Labor Relations <labor-relations>
+   Law <law>
+   Management Services <management-services>
+   Mayor and Council <mayor-and-council>
+   Office of Real Estate Services <office-real-estate>
+   Office of the City Auditor <office-city-auditor>
+   Office of the City Clerk <office-city-clerk>
+   Office of the Medical Director <office-medical-director>
+   Small and Minority Business Resources <small-minority-business>
+   Telecommunications and Regulatory Affairs <telecom-regulatory-affairs>
 
 .. toctree::
    :hidden:
    :maxdepth: 3
    :caption: Internal Services
 
-   Communication and Technology Management
-   Fleet Services
+   Communication and Technology Management <com-technology-management>
+   Fleet Services <fleet-services>
 
 
    
