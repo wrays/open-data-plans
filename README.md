@@ -15,7 +15,7 @@ To keep the plans updated and accessible, we do the following:
 
 From Aug-Nov 2016, this repo will be the focus of an Open Data Initiative sprint project. The project scope and charter can be found [here](http://open-data-sprints.readthedocs.io/en/latest/project-plans-and-inventory.html).
 
-### To view team meetings and minutes, click [here](https://github.com/cityofaustin/open-data-plans/labels/meetings).
+### To view team meetings and minutes, click [here](https://github.com/cityofaustin/open-data-plans/issues?utf8=%E2%9C%93&q=label%3Ameetings%20).
 
 Upcoming project milestones include: 
 - [Design an Open Data Plan template](https://github.com/cityofaustin/open-data-plans/milestone/2)
