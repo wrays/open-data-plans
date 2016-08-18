@@ -2,6 +2,11 @@
 Welcome to City of Austin's Open Data Plans!
 ==============================================
 
+.. warning::
+
+   This site is under construction as part of a sprint project running from Aug to Nov 2016. The project scope and charter can be found `here <http://open-data-sprints.readthedocs.io/en/latest/project-plans-and-inventory.html>`_.
+
+
 This site provides a central location for open data planning documents at the City of Austin. Open Data Plans help folks learn about our departments and discover data that interests them. Each department is responsible for maintaining an Open Data Plan which describes the following: 
 
 - x
