@@ -13,6 +13,6 @@ As we work on this project during Sprint 2.2, we're discovering all sorts of ide
 
 ## Next/Later
 
-- one
+- Discuss the problem of Performance Measure names being much longer than what we would consider for a dataset name and how to address
 - two
 - three
